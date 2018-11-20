@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://guide.aotu.io/docs/js/language.html</loc>
+    
+    <lastmod>2018-11-20T09:54:29.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guide.aotu.io/docs/index.html</loc>
+    
+    <lastmod>2018-11-20T09:54:28.865Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guide.aotu.io/docs/contributing.html</loc>
+    
+    <lastmod>2018-11-20T09:54:08.045Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://guide.aotu.io/themes/index.html</loc>
     
     <lastmod>2018-11-20T08:35:41.092Z</lastmod>
@@ -23,14 +44,14 @@
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>http://guide.aotu.io/docs/name/image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/name/image.html</loc>
+    <loc>http://guide.aotu.io/docs/name/jdc_fd_guide_name.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
@@ -45,13 +66,6 @@
   
   <url>
     <loc>http://guide.aotu.io/docs/name/dir.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.088Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guide.aotu.io/docs/js/language.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
@@ -79,13 +93,6 @@
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/index.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.087Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://guide.aotu.io/docs/image/size.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
@@ -93,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/jdc_fd_guide_image.html</loc>
+    <loc>http://guide.aotu.io/docs/image/quality.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/quality.html</loc>
+    <loc>http://guide.aotu.io/docs/image/jdc_fd_guide_image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
@@ -142,14 +149,14 @@
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>http://guide.aotu.io/docs/html/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/code.html</loc>
+    <loc>http://guide.aotu.io/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
@@ -163,14 +170,14 @@
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/sass.html</loc>
+    <loc>http://guide.aotu.io/docs/css/query.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/query.html</loc>
+    <loc>http://guide.aotu.io/docs/css/sass.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
@@ -180,13 +187,6 @@
     <loc>http://guide.aotu.io/docs/css/reset.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guide.aotu.io/docs/css/code.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/common/markdown.html</loc>
+    <loc>http://guide.aotu.io/docs/css/code.html</loc>
     
-    <lastmod>2018-11-20T08:35:41.079Z</lastmod>
+    <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/contributing.html</loc>
+    <loc>http://guide.aotu.io/docs/common/markdown.html</loc>
     
     <lastmod>2018-11-20T08:35:41.079Z</lastmod>
     

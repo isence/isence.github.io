@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Aotu.io - 前端代码规范</title>
+  <title>中科闻歌 - 前端代码规范</title>
   
   <subtitle>Front-End Coding Guidelines</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://guide.aotu.io/</id>
   
   <author>
-    <name>凹凸实验室</name>
+    <name>suanning</name>
     
   </author>
   
