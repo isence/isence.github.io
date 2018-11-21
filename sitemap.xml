@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/htmlcss.html</loc>
+    <loc>http://yoursite.com/docs/name/image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
@@ -58,21 +58,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/image.html</loc>
+    <loc>http://yoursite.com/docs/name/htmlcss.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/classname.html</loc>
+    <loc>http://yoursite.com/docs/name/dir.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/dir.html</loc>
+    <loc>http://yoursite.com/docs/name/classname.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
@@ -135,13 +135,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/template.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.084Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/docs/html/webapp.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
@@ -149,14 +142,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>http://yoursite.com/docs/html/template.html</loc>
+    
+    <lastmod>2018-11-20T08:35:41.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/html/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/code.html</loc>
+    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
@@ -177,13 +177,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/reset.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.081Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/docs/css/query.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
@@ -191,9 +184,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/code.html</loc>
+    <loc>http://yoursite.com/docs/css/reset.html</loc>
     
-    <lastmod>2018-11-20T08:35:41.080Z</lastmod>
+    <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
@@ -206,6 +199,13 @@
   
   <url>
     <loc>http://yoursite.com/docs/css/note.html</loc>
+    
+    <lastmod>2018-11-20T08:35:41.080Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/css/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
