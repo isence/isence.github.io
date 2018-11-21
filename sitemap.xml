@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/dir.html</loc>
+    <loc>http://yoursite.com/docs/name/classname.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/classname.html</loc>
+    <loc>http://yoursite.com/docs/name/dir.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/image/jdc_fd_guide_image.html</loc>
+    <loc>http://yoursite.com/docs/image/import.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/image/import.html</loc>
+    <loc>http://yoursite.com/docs/image/jdc_fd_guide_image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/webapp.html</loc>
+    <loc>http://yoursite.com/docs/html/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
@@ -142,21 +142,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/note.html</loc>
+    <loc>http://yoursite.com/docs/html/webapp.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/code.html</loc>
+    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>http://yoursite.com/docs/html/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
@@ -170,14 +170,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/sass.html</loc>
+    <loc>http://yoursite.com/docs/css/reset.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/reset.html</loc>
+    <loc>http://yoursite.com/docs/css/sass.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
@@ -191,6 +191,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/docs/css/note.html</loc>
+    
+    <lastmod>2018-11-20T08:35:41.080Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/docs/css/jdc_fd_guide_css.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
@@ -199,13 +206,6 @@
   
   <url>
     <loc>http://yoursite.com/docs/css/code.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/docs/css/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
