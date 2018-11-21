@@ -2,238 +2,238 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://guide.aotu.io/docs/contributing.html</loc>
+    <loc>http://yoursite.com/index.html</loc>
+    
+    <lastmod>2018-11-21T08:24:19.271Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/index.html</loc>
+    
+    <lastmod>2018-11-21T08:23:20.622Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/contributing.html</loc>
     
     <lastmod>2018-11-21T07:49:10.120Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/index.html</loc>
-    
-    <lastmod>2018-11-21T07:47:29.862Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guide.aotu.io/docs/js/language.html</loc>
+    <loc>http://yoursite.com/docs/js/language.html</loc>
     
     <lastmod>2018-11-20T09:54:29.039Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/themes/index.html</loc>
+    <loc>http://yoursite.com/themes/index.html</loc>
     
     <lastmod>2018-11-20T08:35:41.092Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/plugins/index.html</loc>
+    <loc>http://yoursite.com/plugins/index.html</loc>
     
     <lastmod>2018-11-20T08:35:41.091Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/index.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.090Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guide.aotu.io/docs/name/htmlcss.html</loc>
+    <loc>http://yoursite.com/docs/name/htmlcss.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>http://yoursite.com/docs/name/image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/name/image.html</loc>
+    <loc>http://yoursite.com/docs/name/jdc_fd_guide_name.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/name/dir.html</loc>
+    <loc>http://yoursite.com/docs/name/dir.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/name/classname.html</loc>
+    <loc>http://yoursite.com/docs/name/classname.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/issues.html</loc>
+    <loc>http://yoursite.com/docs/issues.html</loc>
     
     <lastmod>2018-11-20T08:35:41.087Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/js/code.html</loc>
+    <loc>http://yoursite.com/docs/js/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.087Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/size.html</loc>
+    <loc>http://yoursite.com/docs/image/size.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/quality.html</loc>
+    <loc>http://yoursite.com/docs/image/quality.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/jdc_fd_guide_image.html</loc>
+    <loc>http://yoursite.com/docs/image/jdc_fd_guide_image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/import.html</loc>
+    <loc>http://yoursite.com/docs/image/import.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/image/format.html</loc>
+    <loc>http://yoursite.com/docs/image/format.html</loc>
     
     <lastmod>2018-11-20T08:35:41.085Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/note.html</loc>
+    <loc>http://yoursite.com/docs/html/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/template.html</loc>
+    <loc>http://yoursite.com/docs/html/template.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/webapp.html</loc>
+    <loc>http://yoursite.com/docs/html/webapp.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/code.html</loc>
+    <loc>http://yoursite.com/docs/html/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/webkit.html</loc>
+    <loc>http://yoursite.com/docs/css/webkit.html</loc>
     
     <lastmod>2018-11-20T08:35:41.082Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/reset.html</loc>
+    <loc>http://yoursite.com/docs/css/sass.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/sass.html</loc>
+    <loc>http://yoursite.com/docs/css/reset.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/query.html</loc>
+    <loc>http://yoursite.com/docs/css/query.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/jdc_fd_guide_css.html</loc>
+    <loc>http://yoursite.com/docs/css/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/note.html</loc>
+    <loc>http://yoursite.com/docs/css/jdc_fd_guide_css.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/css/code.html</loc>
+    <loc>http://yoursite.com/docs/css/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/common/markdown.html</loc>
+    <loc>http://yoursite.com/docs/common/markdown.html</loc>
     
     <lastmod>2018-11-20T08:35:41.079Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/news/2015/11/15/beta-released/</loc>
+    <loc>http://yoursite.com/2015/11/15/beta-released/</loc>
     
     <lastmod>2018-11-20T08:35:41.078Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/docs/common.html</loc>
+    <loc>http://yoursite.com/docs/common.html</loc>
     
     <lastmod>2018-11-20T08:35:41.078Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://guide.aotu.io/news/2015/11/13/first-released/</loc>
+    <loc>http://yoursite.com/2015/11/13/first-released/</loc>
     
     <lastmod>2018-11-20T08:35:41.077Z</lastmod>
     

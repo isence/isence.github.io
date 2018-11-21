@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>中科闻歌 - 前端代码规范</title>
   
-  <subtitle>Front-End Coding Guidelines</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://guide.aotu.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2018-11-20T08:35:41.078Z</updated>
-  <id>http://guide.aotu.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>suanning</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>V1.0.0 Beta Released</title>
-    <link href="http://guide.aotu.io/news/2015/11/15/beta-released/"/>
-    <id>http://guide.aotu.io/news/2015/11/15/beta-released/</id>
+    <link href="http://yoursite.com/2015/11/15/beta-released/"/>
+    <id>http://yoursite.com/2015/11/15/beta-released/</id>
     <published>2015-11-15T00:00:00.000Z</published>
     <updated>2018-11-20T08:35:41.078Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>V1.0.0 Preview (预览版)</title>
-    <link href="http://guide.aotu.io/news/2015/11/13/first-released/"/>
-    <id>http://guide.aotu.io/news/2015/11/13/first-released/</id>
+    <link href="http://yoursite.com/2015/11/13/first-released/"/>
+    <id>http://yoursite.com/2015/11/13/first-released/</id>
     <published>2015-11-13T00:00:00.000Z</published>
     <updated>2018-11-20T08:35:41.077Z</updated>
     
