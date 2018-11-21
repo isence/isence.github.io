@@ -44,7 +44,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/htmlcss.html</loc>
+    <loc>http://yoursite.com/docs/name/jdc_fd_guide_name.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>http://yoursite.com/docs/name/htmlcss.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/image/quality.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.086Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/docs/image/jdc_fd_guide_image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.086Z</lastmod>
@@ -121,9 +114,23 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/docs/image/quality.html</loc>
+    
+    <lastmod>2018-11-20T08:35:41.086Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/docs/image/format.html</loc>
     
     <lastmod>2018-11-20T08:35:41.085Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/html/webapp.html</loc>
+    
+    <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
   </url>
   
@@ -142,21 +149,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/webapp.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.084Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/docs/html/code.html</loc>
+    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>http://yoursite.com/docs/html/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
@@ -177,13 +177,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/reset.html</loc>
-    
-    <lastmod>2018-11-20T08:35:41.081Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/docs/css/query.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
@@ -191,14 +184,21 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/note.html</loc>
+    <loc>http://yoursite.com/docs/css/reset.html</loc>
+    
+    <lastmod>2018-11-20T08:35:41.081Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/docs/css/jdc_fd_guide_css.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/jdc_fd_guide_css.html</loc>
+    <loc>http://yoursite.com/docs/css/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
@@ -219,14 +219,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/11/15/beta-released/</loc>
+    <loc>http://yoursite.com/docs/common.html</loc>
     
     <lastmod>2018-11-20T08:35:41.078Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/common.html</loc>
+    <loc>http://yoursite.com/2015/11/15/beta-released/</loc>
     
     <lastmod>2018-11-20T08:35:41.078Z</lastmod>
     
