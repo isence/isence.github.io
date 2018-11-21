@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/note.html</loc>
+    <loc>http://yoursite.com/docs/html/webapp.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/webapp.html</loc>
+    <loc>http://yoursite.com/docs/html/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.084Z</lastmod>
     
@@ -170,14 +170,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/reset.html</loc>
+    <loc>http://yoursite.com/docs/css/sass.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/sass.html</loc>
+    <loc>http://yoursite.com/docs/css/reset.html</loc>
     
     <lastmod>2018-11-20T08:35:41.081Z</lastmod>
     
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/note.html</loc>
+    <loc>http://yoursite.com/docs/css/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/code.html</loc>
+    <loc>http://yoursite.com/docs/css/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
