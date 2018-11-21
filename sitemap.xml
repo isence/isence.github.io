@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/index.html</loc>
+    <loc>http://yoursite.com/docs/index.html</loc>
     
-    <lastmod>2018-11-21T08:24:19.271Z</lastmod>
+    <lastmod>2018-11-21T08:50:01.224Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/index.html</loc>
+    <loc>http://yoursite.com/index.html</loc>
     
-    <lastmod>2018-11-21T08:23:20.622Z</lastmod>
+    <lastmod>2018-11-21T08:24:19.271Z</lastmod>
     
   </url>
   
@@ -44,14 +44,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>http://yoursite.com/docs/name/image.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/image.html</loc>
+    <loc>http://yoursite.com/docs/name/jdc_fd_guide_name.html</loc>
     
     <lastmod>2018-11-20T08:35:41.089Z</lastmod>
     
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/classname.html</loc>
+    <loc>http://yoursite.com/docs/name/dir.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/name/dir.html</loc>
+    <loc>http://yoursite.com/docs/name/classname.html</loc>
     
     <lastmod>2018-11-20T08:35:41.088Z</lastmod>
     
@@ -149,14 +149,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
+    <loc>http://yoursite.com/docs/html/code.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/html/code.html</loc>
+    <loc>http://yoursite.com/docs/html/jdc_fd_web_final_2.html</loc>
     
     <lastmod>2018-11-20T08:35:41.083Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/note.html</loc>
+    <loc>http://yoursite.com/docs/css/jdc_fd_guide_css.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/docs/css/jdc_fd_guide_css.html</loc>
+    <loc>http://yoursite.com/docs/css/note.html</loc>
     
     <lastmod>2018-11-20T08:35:41.080Z</lastmod>
     
