@@ -2825,11 +2825,6 @@ a.article-title:hover {
 .article-edit-link:hover {
   color: #1094e8;
 }
-@media screen and (min-width: 769px) {
-  .article-edit-link {
-    display: block;
-  }
-}
 .article-anchor {
   margin-left: 10px;
   display: none;
